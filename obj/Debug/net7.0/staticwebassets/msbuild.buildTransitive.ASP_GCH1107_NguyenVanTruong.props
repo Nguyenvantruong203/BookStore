@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ASP_GCH1107_NguyenVanTruong.props" />
+</Project>

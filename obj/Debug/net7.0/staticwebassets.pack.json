@@ -1,0 +1,809 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/obj/Debug/net7.0/scopedcss/projectbundle/ASP_GCH1107_NguyenVanTruong.bundle.scp.css",
+      "PackagePath": "staticwebassets/ASP_GCH1107_NguyenVanTruong.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/.DS_Store",
+      "PackagePath": "staticwebassets/assets/.DS_Store"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/.DS_Store",
+      "PackagePath": "staticwebassets/assets/bootstrap/.DS_Store"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/assets/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/assets/bootstrap/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/assets/bootstrap/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/assets/bootstrap/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/assets/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/assets/bootstrap/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/assets/bootstrap/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/assets/bootstrap/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/assets/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/assets/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/assets/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/assets/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/assets/bootstrap/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/assets/bootstrap/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/assets/bootstrap/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/assets/bootstrap/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/assets/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/assets/bootstrap/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/assets/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/bootstrap/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/assets/bootstrap/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/all.min.css",
+      "PackagePath": "staticwebassets/assets/css/all.min.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/animate.css",
+      "PackagePath": "staticwebassets/assets/css/animate.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/magnific-popup.css",
+      "PackagePath": "staticwebassets/assets/css/magnific-popup.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/main.css",
+      "PackagePath": "staticwebassets/assets/css/main.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/meanmenu.min.css",
+      "PackagePath": "staticwebassets/assets/css/meanmenu.min.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/owl.carousel.css",
+      "PackagePath": "staticwebassets/assets/css/owl.carousel.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/responsive.css",
+      "PackagePath": "staticwebassets/assets/css/responsive.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/base/_mixins.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/base/_mixins.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/base/_typography.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/base/_typography.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/base/_variables.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/base/_variables.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/common/_common.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/common/_common.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/common/_footer.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/common/_footer.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/common/_header.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/common/_header.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/common/_hover.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/common/_hover.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/main.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/main.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/pages/_404.css",
+      "PackagePath": "staticwebassets/assets/css/scss/pages/_404.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/pages/_404.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/pages/_404.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/pages/_about.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/pages/_about.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/pages/_contact.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/pages/_contact.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/pages/_shop.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/pages/_shop.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/prepros-6.config",
+      "PackagePath": "staticwebassets/assets/css/scss/prepros-6.config"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/sections/_about.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/sections/_about.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/sections/_cart-banner.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/sections/_cart-banner.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/sections/_hero.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/sections/_hero.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/sections/_list.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/sections/_list.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/sections/_news.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/sections/_news.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/sections/_shop-banner.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/sections/_shop-banner.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/css/scss/sections/_testimonials.scss",
+      "PackagePath": "staticwebassets/assets/css/scss/sections/_testimonials.scss"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/.DS_Store",
+      "PackagePath": "staticwebassets/assets/img/.DS_Store"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/1.jpg",
+      "PackagePath": "staticwebassets/assets/img/1.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/a.jpg",
+      "PackagePath": "staticwebassets/assets/img/a.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/abt.jpg",
+      "PackagePath": "staticwebassets/assets/img/abt.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/avaters/avatar1.png",
+      "PackagePath": "staticwebassets/assets/img/avaters/avatar1.png"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/avaters/avatar2.png",
+      "PackagePath": "staticwebassets/assets/img/avaters/avatar2.png"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/avaters/avatar3.png",
+      "PackagePath": "staticwebassets/assets/img/avaters/avatar3.png"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets/assets/img/breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/company-logos/.DS_Store",
+      "PackagePath": "staticwebassets/assets/img/company-logos/.DS_Store"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/company-logos/1.png",
+      "PackagePath": "staticwebassets/assets/img/company-logos/1.png"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/company-logos/2.png",
+      "PackagePath": "staticwebassets/assets/img/company-logos/2.png"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/company-logos/3.png",
+      "PackagePath": "staticwebassets/assets/img/company-logos/3.png"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/company-logos/4.png",
+      "PackagePath": "staticwebassets/assets/img/company-logos/4.png"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/company-logos/5.png",
+      "PackagePath": "staticwebassets/assets/img/company-logos/5.png"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/dd.jpg",
+      "PackagePath": "staticwebassets/assets/img/dd.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/favicon.png",
+      "PackagePath": "staticwebassets/assets/img/favicon.png"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/feature-bg.jpg",
+      "PackagePath": "staticwebassets/assets/img/feature-bg.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/hero-bg-2.jpg",
+      "PackagePath": "staticwebassets/assets/img/hero-bg-2.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/hero-bg-3.jpg",
+      "PackagePath": "staticwebassets/assets/img/hero-bg-3.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/hero-bg.jpg",
+      "PackagePath": "staticwebassets/assets/img/hero-bg.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/homepage-bg-pattern.png",
+      "PackagePath": "staticwebassets/assets/img/homepage-bg-pattern.png"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/latest-news/news-bg-1.jpg",
+      "PackagePath": "staticwebassets/assets/img/latest-news/news-bg-1.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/latest-news/news-bg-2.jpg",
+      "PackagePath": "staticwebassets/assets/img/latest-news/news-bg-2.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/latest-news/news-bg-3.jpg",
+      "PackagePath": "staticwebassets/assets/img/latest-news/news-bg-3.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/latest-news/news-bg-4.jpg",
+      "PackagePath": "staticwebassets/assets/img/latest-news/news-bg-4.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/latest-news/news-bg-5.jpg",
+      "PackagePath": "staticwebassets/assets/img/latest-news/news-bg-5.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/latest-news/news-bg-6.jpg",
+      "PackagePath": "staticwebassets/assets/img/latest-news/news-bg-6.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/logo.png",
+      "PackagePath": "staticwebassets/assets/img/logo.png"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/products/product-img-1.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-img-1.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/products/product-img-2.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-img-2.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/products/product-img-3.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-img-3.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/products/product-img-4.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-img-4.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/products/product-img-5.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-img-5.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/products/product-img-6.jpg",
+      "PackagePath": "staticwebassets/assets/img/products/product-img-6.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/team/team-1.jpg",
+      "PackagePath": "staticwebassets/assets/img/team/team-1.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/team/team-2.jpg",
+      "PackagePath": "staticwebassets/assets/img/team/team-2.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/img/team/team-3.jpg",
+      "PackagePath": "staticwebassets/assets/img/team/team-3.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/js/form-validate.js",
+      "PackagePath": "staticwebassets/assets/js/form-validate.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/js/jquery-1.11.3.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery-1.11.3.min.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/js/jquery.countdown.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.countdown.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/js/jquery.isotope-3.0.6.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.isotope-3.0.6.min.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/js/jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/js/jquery.meanmenu.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.meanmenu.min.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/js/main.js",
+      "PackagePath": "staticwebassets/assets/js/main.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/js/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/assets/js/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/js/sticker.js",
+      "PackagePath": "staticwebassets/assets/js/sticker.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/js/waypoints.js",
+      "PackagePath": "staticwebassets/assets/js/waypoints.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/webfonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/webfonts/fa-brands-400.eot_",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-brands-400.eot_"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/webfonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/webfonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/webfonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/webfonts/fa-regular-400.eot_",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-regular-400.eot_"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/webfonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/webfonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/webfonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/webfonts/fa-solid-900.eot_",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-solid-900.eot_"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/webfonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/webfonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/assets/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/1a78182c-565e-48b1-92f6-862280eea492_abt.jpg",
+      "PackagePath": "staticwebassets/images/1a78182c-565e-48b1-92f6-862280eea492_abt.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/32030bfe-ea23-42b0-98d2-6cecd6e67775_abt.jpg",
+      "PackagePath": "staticwebassets/images/32030bfe-ea23-42b0-98d2-6cecd6e67775_abt.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/369f4394-a7d5-4d7b-94d4-3efbfdc2bdf5_favicon.png",
+      "PackagePath": "staticwebassets/images/369f4394-a7d5-4d7b-94d4-3efbfdc2bdf5_favicon.png"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/3d2bf313-95c4-4f8a-a4aa-70f4ce1fbaf8_hero-bg-2.jpg",
+      "PackagePath": "staticwebassets/images/3d2bf313-95c4-4f8a-a4aa-70f4ce1fbaf8_hero-bg-2.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/64ce7996-3b24-45b9-b039-2098d99f722f_neo-ve-cua-y-tb-2023.jpg",
+      "PackagePath": "staticwebassets/images/64ce7996-3b24-45b9-b039-2098d99f722f_neo-ve-cua-y-tb-2023.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/695e03ce-8e50-4a27-a75e-7f26621bf8ac_1.jpg",
+      "PackagePath": "staticwebassets/images/695e03ce-8e50-4a27-a75e-7f26621bf8ac_1.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/7e94ca64-509c-47a5-a7e0-f39a15879378_suc-manh-cua-su-tu-te-tb-2022.jpg",
+      "PackagePath": "staticwebassets/images/7e94ca64-509c-47a5-a7e0-f39a15879378_suc-manh-cua-su-tu-te-tb-2022.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/80cc4ee3-c674-4815-afda-c3f30d42a506_suc-manh-cua-su-tu-te-tb-2022.jpg",
+      "PackagePath": "staticwebassets/images/80cc4ee3-c674-4815-afda-c3f30d42a506_suc-manh-cua-su-tu-te-tb-2022.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/8304c618-2a5d-4351-86c6-fd0777b4eca5_ngay-xua-oi.jpg",
+      "PackagePath": "staticwebassets/images/8304c618-2a5d-4351-86c6-fd0777b4eca5_ngay-xua-oi.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/85f5aa2f-efb2-4ee0-bc62-596b7a3a8b9d_feature-bg.jpg",
+      "PackagePath": "staticwebassets/images/85f5aa2f-efb2-4ee0-bc62-596b7a3a8b9d_feature-bg.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/867ada0e-f324-4ea8-b7e6-754217797e59_mua-dong-rung.jpg",
+      "PackagePath": "staticwebassets/images/867ada0e-f324-4ea8-b7e6-754217797e59_mua-dong-rung.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/9444d2a4-82af-4dc0-b6fe-f57e0d35ecc9_suc-manh-cua-su-tu-te-tb-2022.jpg",
+      "PackagePath": "staticwebassets/images/9444d2a4-82af-4dc0-b6fe-f57e0d35ecc9_suc-manh-cua-su-tu-te-tb-2022.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/97ea5bd5-ac40-4e51-894e-a0a25ab8ebfc_tri-tue-cam-xuc-cao.jpg",
+      "PackagePath": "staticwebassets/images/97ea5bd5-ac40-4e51-894e-a0a25ab8ebfc_tri-tue-cam-xuc-cao.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/a9d10b75-fb58-498c-91bb-58855b2b8d89_neo-ve-cua-y-tb-2023.jpg",
+      "PackagePath": "staticwebassets/images/a9d10b75-fb58-498c-91bb-58855b2b8d89_neo-ve-cua-y-tb-2023.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/c4bbeb20-c3b1-416a-9588-65e9f0c01569_khi-loi-noi-doi-la-vu-khi.jpg",
+      "PackagePath": "staticwebassets/images/c4bbeb20-c3b1-416a-9588-65e9f0c01569_khi-loi-noi-doi-la-vu-khi.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/ca8fefeb-5a72-4915-8667-de48f2b72e1c_logo.png",
+      "PackagePath": "staticwebassets/images/ca8fefeb-5a72-4915-8667-de48f2b72e1c_logo.png"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/ccbcdde5-71f2-404a-8fd9-0dec5143064e_hero-bg-3.jpg",
+      "PackagePath": "staticwebassets/images/ccbcdde5-71f2-404a-8fd9-0dec5143064e_hero-bg-3.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/d7119488-e3db-4ab1-a9fe-4809b122575b_ngay-xua-oi.jpg",
+      "PackagePath": "staticwebassets/images/d7119488-e3db-4ab1-a9fe-4809b122575b_ngay-xua-oi.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/d847523a-cee8-4dbe-bc04-faa9080bebe9_hero-bg.jpg",
+      "PackagePath": "staticwebassets/images/d847523a-cee8-4dbe-bc04-faa9080bebe9_hero-bg.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/images/f5711dbe-df96-4c14-b921-1c6324ad7023_hero-bg.jpg",
+      "PackagePath": "staticwebassets/images/f5711dbe-df96-4c14-b921-1c6324ad7023_hero-bg.jpg"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/truongnguyen/Projects/ASP_GCH1107_NguyenVanTruong/ASP_GCH1107_NguyenVanTruong/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.ASP_GCH1107_NguyenVanTruong.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.ASP_GCH1107_NguyenVanTruong.props",
+      "PackagePath": "build\\ASP_GCH1107_NguyenVanTruong.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ASP_GCH1107_NguyenVanTruong.props",
+      "PackagePath": "buildMultiTargeting\\ASP_GCH1107_NguyenVanTruong.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ASP_GCH1107_NguyenVanTruong.props",
+      "PackagePath": "buildTransitive\\ASP_GCH1107_NguyenVanTruong.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
